@@ -7,7 +7,12 @@
       "technologies": ["HTML", "CSS", "JavaScript"],
       "live_link": "https://fredrikjohanssonnn.github.io/Random-Quote-Selector/",
       "github_link": "https://github.com/fredrikjohanssonnn/Random-Quote-Selector",
-      "image_urls": ["/static/images/project-1/landing.PNG"]
+      "image_urls": [
+        "/static/images/project-1/start.PNG",
+        "/static/images/project-1/landing.PNG",
+        "/static/images/project-1/landing2.PNG",
+        "/static/images/project-1/landing3.PNG"
+      ]
     },
     {
       "id": 1,
@@ -16,7 +21,12 @@
       "technologies": ["HTML", "CSS", "JavaScript"],
       "live_link": "https://fredrikjohanssonnn.github.io/Live-search-filter-of-users/",
       "github_link": "https://github.com/fredrikjohanssonnn/Live-search-filter-of-users",
-      "image_urls": ["/static/images/project-2/landing.PNG"]
+      "image_urls": [
+        "/static/images/project-2/start.PNG",
+        "/static/images/project-2/landing.PNG",
+        "/static/images/project-2/landing2.PNG",
+        "/static/images/project-2/landing3.PNG"
+      ]
     },
     {
       "id": 2,
@@ -25,7 +35,12 @@
       "technologies": ["HTML", "CSS", "JavaScript"],
       "live_link": "https://fredrikjohanssonnn.github.io/Registratiom-form/",
       "github_link": "https://github.com/fredrikjohanssonnn/Registratiom-form",
-      "image_urls": ["/static/images/project-3/landing.PNG"]
+      "image_urls": [
+        "/static/images/project-3/start.PNG",
+        "/static/images/project-3/landing.PNG",
+        "/static/images/project-3/landing2.PNG",
+        "/static/images/project-3/landing3.PNG"
+      ]
     },
     {
       "id": 3,
@@ -34,7 +49,12 @@
       "technologies": ["HTML", "CSS", "JavaScript"],
       "live_link": "https://fredrikjohanssonnn.github.io/Phrase-hunter/",
       "github_link": "https://github.com/fredrikjohanssonnn/Phrase-hunter",
-      "image_urls": ["/static/images/project-4/landing.PNG"]
+      "image_urls": [
+        "/static/images/project-4/start.PNG",
+        "/static/images/project-4/landing.PNG",
+        "/static/images/project-4/landing2.PNG",
+        "/static/images/project-4/landing3.PNG"
+      ]
     },
     {
       "id": 4,
@@ -43,7 +63,12 @@
       "technologies": ["HTML", "CSS", "JavaScript"],
       "live_link": "https://fredrikjohanssonnn.github.io/Fetching-a-list-of-user-data-with-modal/",
       "github_link": "https://github.com/fredrikjohanssonnn/Fetching-a-list-of-user-data-with-modal",
-      "image_urls": ["/static/images/project-5/landing.PNG"]
+      "image_urls": [
+        "/static/images/project-5/start.PNG",
+        "/static/images/project-5/landing.PNG",
+        "/static/images/project-5/landing2.PNG",
+        "/static/images/project-5/landing3.PNG"
+      ]
     }
   ]
 }
