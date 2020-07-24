@@ -1,0 +1,13 @@
+{
+  "projects": [
+    {
+      "id": 0,
+      "project_name": "Random quote generator",
+      "description": "An app to bla",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": "link to url",
+      "github_link": "Link to Github",
+      "image_urls": []
+    }
+  ]
+}
