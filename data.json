@@ -3,20 +3,47 @@
     {
       "id": 0,
       "project_name": "Random Quote Selector",
-      "description": "An app to bla",
+      "description": "An application to show a random quote from a list. Press the 'Get random quote' button to generate a new quote",
       "technologies": ["HTML", "CSS", "JavaScript"],
-      "live_link": "link to url",
-      "github_link": "Link to Github",
+      "live_link": "https://fredrikjohanssonnn.github.io/Random-Quote-Selector/",
+      "github_link": "https://github.com/fredrikjohanssonnn/Random-Quote-Selector",
       "image_urls": ["/static/images/project-1/landing.PNG"]
     },
     {
       "id": 1,
       "project_name": "Live search filter for a user list",
-      "description": "An app to bla",
+      "description": "This application uses a live search feature to filter users. It also uses pagination to create dynamic pages in case there's a long list of users",
       "technologies": ["HTML", "CSS", "JavaScript"],
-      "live_link": "https://fredrikjohanssonnn.github.io/Random-Quote-Selector/",
-      "github_link": "https://github.com/fredrikjohanssonnn/Random-Quote-Selector",
-      "image_urls": []
+      "live_link": "https://fredrikjohanssonnn.github.io/Live-search-filter-of-users/",
+      "github_link": "https://github.com/fredrikjohanssonnn/Live-search-filter-of-users",
+      "image_urls": ["/static/images/project-2/landing.PNG"]
+    },
+    {
+      "id": 2,
+      "project_name": "Registration form",
+      "description": "A registration form for an imaginary event. The user can select a time, if it collides with another time, that time will be unavailable",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": "https://fredrikjohanssonnn.github.io/Registratiom-form/",
+      "github_link": "https://github.com/fredrikjohanssonnn/Registratiom-form",
+      "image_urls": ["/static/images/project-3/landing.PNG"]
+    },
+    {
+      "id": 3,
+      "project_name": "Phrase Hunter",
+      "description": "This is a game where the user is to guess a hiden letter. The user has five lives. If the user makes five wrong attempts, the game is over. If the user selects a letter that is in the given word. The word is added to the board.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": "https://fredrikjohanssonnn.github.io/Phrase-hunter/",
+      "github_link": "https://github.com/fredrikjohanssonnn/Phrase-hunter",
+      "image_urls": ["/static/images/project-4/landing.PNG"]
+    },
+    {
+      "id": 4,
+      "project_name": "User list with fetch api",
+      "description": "This application fetches data from the random user generator api. The data is then being displayed with ten users on the page. You can press each user and a modal is being showed. The modal contains further information about the user. It also has a search feature to filter users in real-time.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": "https://fredrikjohanssonnn.github.io/Fetching-a-list-of-user-data-with-modal/",
+      "github_link": "https://github.com/fredrikjohanssonnn/Fetching-a-list-of-user-data-with-modal",
+      "image_urls": ["/static/images/project-5/landing.PNG"]
     }
   ]
 }
