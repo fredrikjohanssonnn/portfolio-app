@@ -2,11 +2,20 @@
   "projects": [
     {
       "id": 0,
-      "project_name": "Random quote generator",
+      "project_name": "Random Quote Selector",
       "description": "An app to bla",
       "technologies": ["HTML", "CSS", "JavaScript"],
       "live_link": "link to url",
       "github_link": "Link to Github",
+      "image_urls": ["/static/images/project-1/landing.PNG"]
+    },
+    {
+      "id": 1,
+      "project_name": "Live search filter for a user list",
+      "description": "An app to bla",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": "https://fredrikjohanssonnn.github.io/Random-Quote-Selector/",
+      "github_link": "https://github.com/fredrikjohanssonnn/Random-Quote-Selector",
       "image_urls": []
     }
   ]

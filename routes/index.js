@@ -4,11 +4,11 @@ const { projects } = require('../data.json');
 
 /* Get the landing page when no path is entered */
 router.get('/', (req, res) => {
-  res.render('index', { title: 'Express' });
+  res.render('index', { projects: projects });
 });
 
 router.get('/about', (req, res) => {
-  res.render('about', { title: 'Express' });
+  res.render('about');
 });
 
 router.get('/project/:id', (req, res) => {
