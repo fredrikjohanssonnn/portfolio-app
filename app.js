@@ -18,14 +18,18 @@ app.use(require('./routes'));
 app.use((req, res, next) => {
   const err = new Error('Not found');
   err.status = 404;
+
   console.error(
-    `The user tried to visit a URL that doesn't exist. The server responded with a ${err.status} code. And left a message of ${err.stack}`
+    `Oops, something went wrong! The server responded with a ${err.status} code. And left a message of ${err.stack}`
   );
   next(err);
 });
 
 app.use((err, req, res, next) => {
   res.locals.error = err;
+  if (!err.status) {
+    err.status = 500;
+  }
   res.status(err.status);
   res.render('error', {
     status: err.status,

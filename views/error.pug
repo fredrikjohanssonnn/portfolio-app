@@ -3,8 +3,8 @@ extends layout
 block content
     .grid-container.center
         h1.bold Page #{status}
-        h2.bold= message
-        p It seems that the URL you're trying to visit is missing! Either it has been moved, removed or never existed. Check the URL and try again.
+        h2.bold #{message}
+        p Oops! Something wen't wrong. Please check that the URL is entered correctly.
         a(href='/').learn Go back to home
         br
         p.bold This error was logged to the console
