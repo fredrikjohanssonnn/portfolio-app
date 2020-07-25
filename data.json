@@ -32,7 +32,7 @@
       "id": 2,
       "project_name": "Registration form",
       "description": "A registration form for an imaginary event. The user can select a time, if it collides with another time, that time will be unavailable",
-      "technologies": ["HTML", "CSS", "JavaScript"],
+      "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
       "live_link": "https://fredrikjohanssonnn.github.io/Registratiom-form/",
       "github_link": "https://github.com/fredrikjohanssonnn/Registratiom-form",
       "image_urls": [

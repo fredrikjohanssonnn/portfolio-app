@@ -11,6 +11,16 @@ router.get('/about', (req, res) => {
   res.render('about');
 });
 
+/* Redirect the user to the portfolio site which contains the portfolio */
+router.get('/projects', (req, res) => {
+  res.redirect('/');
+});
+
+router.get('/project', (req, res) => {
+  res.redirect('/');
+});
+
+/* Get the id of the user input in the parameter and use that to render the project with that id */
 router.get('/project/:id', (req, res) => {
   const { id } = req.params;
   const details = projects[id];
